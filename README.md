@@ -1,2 +1,2 @@
 # Hello
-New line - Valerii Kolodochka
+New line: Valerii Kolodochka
